@@ -130,14 +130,14 @@ python mgpeb_simulacao.py
 
 > 💡 Dica: você pode abrir o CSV no Excel ou Google Sheets para explorar os dados em mais detalhes.
 
-```
-fiap-fase2-mgpeb-simulacao/
-├── mgpeb_simulacao.py      ← código principal em Python
-├── historico_pousos.csv    ← arquivo gerado automaticamente com os resultados
-├── requirements.txt        ← dependências (ex.: matplotlib)
-├── LICENSE                 ← licença do projeto (MIT)
-└── README.md               ← documentação do projeto
-```
+## 📂 Estrutura do repositório
+
+- `.gitignore` — arquivos e pastas ignorados pelo Git
+- `LICENSE` — licença do projeto (MIT)
+- `README.md` — documentação do projeto
+- `historico_pousos.csv` — arquivo gerado automaticamente com os resultados
+- `mgpeb_simulacao.py` — código principal em Python
+- `requirements.txt` — dependências (ex.: matplotlib)
 
 ## 🔭 Reflexão Crítica
 
