@@ -12,3 +12,18 @@ Momento,Modulo,Massa,Energia,Combustivel,Prioridade,Resultado
 18/04/2026 14:00:05,Estação de Comunicações,20,12,22,Alta,Estação de Comunicações → Pouso autorizado ⚠️ (forçado pela prioridade)
 18/04/2026 14:00:05,Habitação 3,29,20,50,Alta,Habitação 3 → Pouso autorizado ⚠️ (forçado pela prioridade)
 18/04/2026 14:00:05,Habitação 1,28,20,65,Alta,Habitação 1 → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 17:27:54,Armazém de Suprimentos,33,18,75,Média,Armazém de Suprimentos → Pouso negado ❌
+18/04/2026 17:27:54,Suporte Médico,26,22,55,Alta,Suporte Médico → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 17:27:54,Laboratório Científico,30,18,25,Média,Laboratório Científico → Pouso negado ❌
+18/04/2026 17:27:54,Estação de Comunicações,20,12,22,Alta,Estação de Comunicações → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 17:27:54,Habitação 3,29,20,50,Alta,Habitação 3 → Pouso autorizado ✅
+18/04/2026 17:27:54,Logística 1,35,15,70,Média,Logística 1 → Pouso negado ❌
+18/04/2026 17:27:54,Laboratório Científico,30,18,25,Média,Laboratório Científico → Pouso negado ❌
+18/04/2026 17:27:54,Laboratório Científico,30,18,25,Média,Laboratório Científico → Pouso negado ❌
+18/04/2026 17:27:54,Energia Solar,22,25,40,Alta,Energia Solar → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 17:27:54,Módulo de Mineração,40,25,30,Baixa,Módulo de Mineração → Pouso negado ❌
+18/04/2026 17:27:54,Estação de Comunicações,20,12,22,Alta,Estação de Comunicações → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 17:27:54,Módulo de Produção Local,38,25,28,Baixa,Módulo de Produção Local → Pouso negado ❌
+18/04/2026 17:27:54,Laboratório Biológico,27,18,19,Média,Laboratório Biológico → Pouso negado ❌
+18/04/2026 17:27:54,Módulo de Mineração,40,25,30,Baixa,Módulo de Mineração → Pouso negado ❌
+18/04/2026 17:27:54,Habitação 4,31,20,62,Alta,Habitação 4 → Pouso autorizado ⚠️ (forçado pela prioridade)

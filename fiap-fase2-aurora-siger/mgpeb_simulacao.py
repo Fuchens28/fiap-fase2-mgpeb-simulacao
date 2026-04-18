@@ -32,9 +32,11 @@ historico_pousos = []
 # Função: verificar_pouso
 # ================================
 def verificar_pouso(modulo):
-    sensores_ok = random.choice([True, False])
-    area_livre = random.choice([True, False])
-    clima = random.choice(["Estável", "Tempestade de poeira", "Vento forte"])
+# Ajuste de probabilidades para aumentar taxa de sucesso (~50%)
+    sensores_ok = random.choices([True, False], weights=[0.7, 0.3])[0]
+    area_livre = random.choices([True, False], weights=[0.7, 0.3])[0]
+    clima = random.choices(["Estável", "Tempestade de poeira", "Vento forte"], weights=[0.6, 0.2, 0.2])[0]
+
 
     print(f"Sensores OK: {sensores_ok} | Área livre: {area_livre} | Clima: {clima} | Prioridade: {modulo['prioridade']}")
 
