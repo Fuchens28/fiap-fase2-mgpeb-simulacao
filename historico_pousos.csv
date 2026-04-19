@@ -14,3 +14,21 @@ Momento,Modulo,Massa,Energia,Combustivel,Prioridade,Resultado
 18/04/2026 17:35:12,Habitação 4,31,20,62,Alta,Habitação 4 → Pouso autorizado ⚠️ (forçado pela prioridade)
 18/04/2026 17:35:12,Módulo de Produção Local,38,25,28,Baixa,Módulo de Produção Local → Pouso negado ❌
 18/04/2026 17:35:12,Habitação 1,28,20,65,Alta,Habitação 1 → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 19:07:40,Energia Solar,22,25,40,Alta,Energia Solar → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 19:07:40,Energia Solar,22,25,40,Alta,Energia Solar → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 19:07:40,Energia Solar,22,25,40,Alta,Energia Solar → Pouso autorizado ✅
+18/04/2026 19:07:40,Módulo de Produção Local,38,25,28,Baixa,Módulo de Produção Local → Pouso negado ❌
+18/04/2026 19:07:40,Módulo de Produção Local,38,25,28,Baixa,Módulo de Produção Local → Pouso negado ❌
+18/04/2026 19:07:40,Habitação 2,32,20,18,Alta,Habitação 2 → Pouso negado ❌
+18/04/2026 19:13:06,Logística 1,35,15,70,Média,Logística 1 → Pouso negado ❌
+18/04/2026 19:13:06,Laboratório Biológico,27,18,19,Média,Laboratório Biológico → Pouso negado ❌
+18/04/2026 19:13:06,Módulo de Mineração,40,25,30,Baixa,Módulo de Mineração → Pouso negado ❌
+18/04/2026 19:13:06,Habitação 2,32,20,18,Alta,Habitação 2 → Pouso negado ❌
+18/04/2026 19:13:06,Habitação 4,31,20,62,Alta,Habitação 4 → Pouso autorizado ✅
+18/04/2026 19:13:06,Habitação 4,31,20,62,Alta,Habitação 4 → Pouso autorizado ✅
+18/04/2026 19:13:06,Suporte Médico,26,22,55,Alta,Suporte Médico → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 19:13:06,Estação de Comunicações,20,12,22,Alta,Estação de Comunicações → Pouso autorizado ⚠️ (forçado pela prioridade)
+18/04/2026 19:13:06,Rover de Exploração,12,10,80,Média,Rover de Exploração → Pouso negado ❌
+18/04/2026 19:13:06,Módulo de Produção Local,38,25,28,Baixa,Módulo de Produção Local → Pouso negado ❌
+18/04/2026 19:13:06,Logística 2,34,15,65,Média,Logística 2 → Pouso negado ❌
+18/04/2026 19:13:06,Módulo de Mineração,40,25,30,Baixa,Módulo de Mineração → Pouso negado ❌

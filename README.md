@@ -112,7 +112,7 @@ Suporte Médico → Pouso autorizado ⚠️ (forçado pela prioridade)
 
 **Passo a passo:**
 
-```bash
+
 # Clonar o repositório
 git clone https://github.com/Fuchens28/fiap-fase2-mgpeb-simulacao.git
 cd fiap-fase2-mgpeb-simulacao
